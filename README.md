@@ -1,0 +1,3 @@
+# MergePDF
+Merges....PDFs....
+Meant to be installed with registry shell edits referring to the batch file. This allows for a context menu entry. When called on a folder with PDFs in it, it will add them all to a single PDF, with the name of the folder. 
