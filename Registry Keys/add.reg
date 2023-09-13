@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\MergePDFs]
+@="Merge PDFs"
+
+[HKEY_CLASSES_ROOT\Directory\shell\MergePDFs\command]
+@="\"C:\\Program Files (x86)\\MergePDFs\\merge.exe\" \"%1\" \"output_filename.pdf\""
